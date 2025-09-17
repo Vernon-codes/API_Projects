@@ -1,0 +1,5 @@
+Python compiler
+pandas library
+requests library
+BeatifulSoup bs4 library
+
